@@ -5,3 +5,4 @@ adding another change to try out git diff
 made a third change
 I am now making a second edit to this textfile
 Cold and dry, but everything is my favorite color.
+Evidence of liquid water, but you'll be dying for a drink.
